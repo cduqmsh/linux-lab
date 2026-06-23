@@ -3,7 +3,7 @@
 ## File Commands
 
 - [find](./file/find.md)
-- [grep](./file/grpe.md)
+- [grep](./file/grep.md)
 - awk
 - sed
 
