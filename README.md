@@ -3,12 +3,13 @@
 ## File Commands
 
 - [find](./file/find.md)
-- grep
+- [grep](./file/grpe.md)
 - awk
 - sed
 
 ## Process
 
+- ssh
 - ps
 - top
 - kill
