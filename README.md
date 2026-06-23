@@ -24,4 +24,4 @@
 
 ## Resource
 
-- resource
+- [resource](./resource/resource.md)
